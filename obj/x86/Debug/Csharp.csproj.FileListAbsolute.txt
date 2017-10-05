@@ -1,0 +1,5 @@
+/Users/luigis2/Desktop/repos musiv/Csharp/Csharp-Project/bin/Debug/Csharp.exe
+/Users/luigis2/Desktop/repos musiv/Csharp/Csharp-Project/bin/Debug/Csharp.pdb
+/Users/luigis2/Desktop/repos musiv/Csharp/Csharp-Project/obj/x86/Debug/Csharp.csproj.CoreCompileInputs.cache
+/Users/luigis2/Desktop/repos musiv/Csharp/Csharp-Project/obj/x86/Debug/Csharp.exe
+/Users/luigis2/Desktop/repos musiv/Csharp/Csharp-Project/obj/x86/Debug/Csharp.pdb
